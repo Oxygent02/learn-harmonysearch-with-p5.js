@@ -1,0 +1,21 @@
+
+.stats, .all, .title, .lable {
+  font-family: "Courier";
+}
+
+.title {
+  font-size: 72;
+}
+
+.stats {
+  font-size: 20;
+}
+
+.all{
+  font-size: 28;
+}
+
+.lable{
+  font-size: 28;
+  text-align: right;
+}

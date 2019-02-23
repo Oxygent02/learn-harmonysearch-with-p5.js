@@ -1,3 +1,7 @@
+//February 23th, 2019
+//By
+//FERNANDITO YOGA DANNY (Oxygent02)
+
 function randomIndex() {
   let n = floor(random(0, 4));
   return n;

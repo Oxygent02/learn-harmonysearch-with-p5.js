@@ -1,3 +1,7 @@
+//February 23th, 2019
+//By
+//FERNANDITO YOGA DANNY (Oxygent02)
+
 function newHarmony() {
   let c = floor(random(0, 10));
   return c;
